@@ -2,7 +2,7 @@
 title: Open Telecom Foundation
 email: admin@opentelecom.foundation
 description: > # this means to ignore newlines until "baseurl:"
-  The Open Telecom Foundation is a not-for-profit collaboration between community members who are passionate about open source projects and open protocols that facilitate better quality telecommunications
+  The Open Telecom Foundation is a not-for-profit collaboration between community members who are passionate about open source projects and open protocols that facilitate better quality telecommunications.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://opentelecom.foundation" # the base hostname & protocol for your site
 
