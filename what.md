@@ -10,3 +10,6 @@ permalink: /what/
 
 {% include what_contributing.md %}
 
+{% include what_planning.md %}
+
+{% include what_resources.md %}
