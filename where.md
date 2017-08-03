@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Where We Operate
+title: Where
 permalink: /where/
 ---
+
+#Spaces We Operate#
 
 {% include where_globally.md %}
 
