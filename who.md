@@ -4,4 +4,4 @@ title: Who We Are
 permalink: /who/
 ---
 
-{% include directors.md %}
+{% include who_directors.md %}
