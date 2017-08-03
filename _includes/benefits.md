@@ -1,5 +1,3 @@
-The Open Telecom Foundation is a not-for-profit collaboration between community members who are passionate about open source projects and open protocols that facilitate better quality telecommunications. 
-
 **Membership Benefits:**
 
 * *Support* of a knowledgeable group of developers and operators who manage 24/7/365 carrier-grade telecommunications all over the globe.
