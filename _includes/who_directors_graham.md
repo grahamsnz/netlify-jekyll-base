@@ -1,4 +1,5 @@
 **Graham Nelson-Zutter**
+(Vancouver, Canada)
 
 Graham's interest in telecommunications was first ignited during his childhood, when his father worked as a telephone repair man - and later as Director of Marketing for Mobile Phones - at Edmonton Telephones (later acquired by Telus). In the mid 1980s Graham’s father was headhunted by Bell Mobility in Toronto. Soon after joining Bell, his father was lured away by Octel/Lucent in Silicon Valley, where he remained during the rest of the 1980s and 1990s.
 
