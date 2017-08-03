@@ -1,6 +1,6 @@
 ---
 layout: page
-title: When?
+title: When To Get Involved?
 permalink: /when/
 ---
 
