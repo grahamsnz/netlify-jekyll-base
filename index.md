@@ -2,4 +2,6 @@
 layout: default
 ---
   
-  {% include benefits.md %}
+{% include what_purpose.md %}
+
+{% include what_benefits.md %}
