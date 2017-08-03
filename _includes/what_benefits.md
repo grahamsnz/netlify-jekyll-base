@@ -1,4 +1,4 @@
-**Membership Benefits:**
+##Membership Benefits:##
 
 * *Support* of a knowledgeable group of developers and operators who manage 24/7/365 carrier-grade telecommunications all over the globe.
 * *Collaboration* on the design and development of new features and enhancements of open source telecom projects and open standards. 
