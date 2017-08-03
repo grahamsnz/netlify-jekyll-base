@@ -12,4 +12,4 @@ All of the Open Telecom Foundation’s members are directly involved in providin
 
 If your organization or you personally are involved in providing carrier-grade telecom services or would like to support projects that support providing carrier-grade telecom services, please become a member!
 
-* * *
+
