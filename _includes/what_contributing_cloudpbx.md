@@ -1,4 +1,4 @@
-*CloudPBX (Canada)*
+**CloudPBX (Canada)**
 
 * Is a founding member of the OTF who is proud to contribute the small monthly Silver member dues.
 * CTO Graham Nelson-Zutter a volunteers his time as an OTF director and is our signing officer. 
