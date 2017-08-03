@@ -10,9 +10,9 @@ The following directors volunteer their time manage to attend regular board meet
 * Noah Mehl
 * [Remco van Vugt](#who_directors_remco)
 
-* * *
 
-###Directors Bios###
+
+####Directors Bios####
 
 <a name="who_directors_cameron"></a>
 {% include who_directors_cameron.md %}
@@ -24,3 +24,4 @@ The following directors volunteer their time manage to attend regular board meet
 
 <a name="who_directors_remco"></a>
 {% include who_directors_remco.md %}
+
