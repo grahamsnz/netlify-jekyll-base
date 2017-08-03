@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who
+title: Who's Involved
 permalink: /who/
 ---
 
