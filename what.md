@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What We're Doing
+title: Activities
 permalink: /what/
 ---
 
