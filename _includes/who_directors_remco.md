@@ -1,5 +1,5 @@
 **Remco van Vugt**
-(Brda, The Netherlands)
+(Breda, The Netherlands)
 
 Remco has been interested in everything technical from a very early age, which finally converged into IT during his teenage years. Learning to work with Linux in the late 1990s sparked his interest in open source.
 
